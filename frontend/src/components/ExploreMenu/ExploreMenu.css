@@ -7,6 +7,7 @@
 
 .explore-menu h1 {
     color: #092635;
+    font-size: max(2vw, 24px);
     font-weight: 500;
 }
 
@@ -34,12 +35,12 @@
 
 .explore-menu-list-item p {
     margin-top: 10px;
-    color: #31363F ;
+    color: #31363F;
     font-size: max(1.1vw, 14px);
     cursor: pointer;
 }
 
-.explore-menu-list-item .active{
+.explore-menu-list-item .active {
     border: solid 4px #CA8787;
     padding: 2px;
 }
